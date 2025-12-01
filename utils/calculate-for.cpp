@@ -1,6 +1,6 @@
 #include <cmath>
 
-double calculateFor(double N) {
+double calculateFor(int N) {
     double F, lnArg = 0;
 
     for (int i = 0; i < N; i++) {

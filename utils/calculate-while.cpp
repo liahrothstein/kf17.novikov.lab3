@@ -1,6 +1,6 @@
 #include <cmath>
 
-double calculateWhile(double N) {
+double calculateWhile(int N) {
     double F, lnArg = 0;
     int i = 0;
     
